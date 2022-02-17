@@ -1,0 +1,24 @@
+{
+  "name": "lcars-css",
+  "version": "0.0.1",
+  "description": "Star Trek LCARS style template",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss:dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickBig/lcars-css.git"
+  },
+  "keywords": [
+    "lcars",
+    "star trek",
+    "tng"
+  ],
+  "author": "Patrick Bigler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatrickBig/lcars-css/issues"
+  },
+  "homepage": "https://github.com/PatrickBig/lcars-css#readme"
+}
